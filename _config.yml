@@ -24,9 +24,12 @@ linkedin_username: jesper84
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Jesper. I'm a passinate iOS Developer.
+  Hi! My name is Jesper. I'm a passinate iOS Developer. I've been developing native iOS app since 2010. First on a hobby basis, and professionally since 2013. During my carrer which started in 2006 I've
+  been around many technologies: JAVA enterprise, web development in many different aspects, backend programming in TypeScript and Go. As well as, of course, Objective-C and Swift.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Native iOS developemt</mark> in <mark>Swift</mark> and <mark>Objective-C</mark>
+
+  I am also a skilled user of: <mark>Git</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +43,16 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+
+  I live in the beautiful city of Silkeborg in the Middle part of Denmark.
+  I'm happily married to Mai-Britt, and we have a lovely daughter Laura, aged 4.
+
+
+  Alongside my interests in software engineering some of my other interests and hobbies are:
    - Metallica (Closing in on 20 concerts)
    - Cooking
    - Listening to- and collecting vinyls
+   - My family
 
 # Footer
 footer_show_references: true
