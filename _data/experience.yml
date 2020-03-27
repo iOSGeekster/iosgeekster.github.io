@@ -9,14 +9,14 @@
     Being one of 3 iOS developers at Lunar, I've been a part of building the best digital banking app. And I have been ensuring to establish development processes using Github
     At Lunar we very much believe in reviewing, and are using GitHub Pull Requests to great extent. The daily work-rutine was in close collaboration with the respective backend-teams, defining REST interfaces, domain models etc.
     
-    Responsibilities:
+    <mark>Responsibilities:</mark>
     - Developing financial products, like the personal finance manager in the app.
     - Core settings within the app, push settings, phone verification etc.
     - Onboarding of private customers
     - Integrating the app with 3rd party technologies
     - Communication between marketing and app team regarding App Store
 
-    Technologies and tool used:
+    <mark>Technologies and tool used:</mark>
     - Swift (And all aspects of the iOS SDK)
     - Realm (Mobile Database)
     - Reactive Kit
@@ -27,7 +27,7 @@
     - TypeScript
     - REST
     
-    To a smaller extent:
+    <mark>To a smaller extent:</mark>
     - Kubernetes
 
 - layout: left
@@ -41,11 +41,11 @@
     At eBay in Denmark, I was one the "Den Blå Avis" team, which is a webpage and mobile app for the biggest platform for classified ads. I was a developer on the iPhone app,
     and also did some web development.
 
-    Responsibilities:
+    <mark>Responsibilities:</mark>
      - Enhancing the customer-to-customer experience
      - Enhancing the creation of items for salee
 
-    Technologies and tool used:
+    <mark>Technologies and tool used:</mark>
       - Objective-C
       - Swift
       - Calabash (for writing UI test)
@@ -60,7 +60,7 @@
     At Trifork I worked as an iOS consultant, primarily working on project for the biggest bank in Denmark, Danske Bank. Here I was on the development team for Danskes iOS app for business customers.
     The work was in close collaboration with the internal team at Danske Bank, focused on two weeks sprints. Before my departure at Trifork I also worked on Danske Banks app: "WeShare"
 
-    Responsibilities:
+    <mark>Responsibilities:</mark>
     - Working close with Danske Bank team involving all parts of the app
 
     Technologies and tool used:
@@ -79,11 +79,11 @@
     
     I worked on a HTML5 (along with CSS3 and Dojo / jQuery) based web solution, targeted for Apples iPad and other tablet devices.
 
-    Responsibilites:
+    <mark>Responsibilites:</mark>
     - Create custom components for our internal software developers
     - Creating web-based online banking targeted for iPad
 
-    Technologies and tool used:
+    <mark>Technologies and tool used:</mark>
     - JSP
     - Dojo
     - jQuery
@@ -107,10 +107,11 @@
 
     And... I also did some COBOL programming
 
-  Responsibilities:
+    <mark>Responsibilities:</mark>
     - Making everyday tasks easier for the financial advisors
+    - Configuration manager (Probably a bit of what we today call DevOps)
 
-  Technologies and tool used:
+    <mark>Technologies and tool used:</mark>
     - J2EE
     - Websphere Application Server
     - Java Server Faces
