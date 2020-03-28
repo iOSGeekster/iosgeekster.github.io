@@ -24,7 +24,7 @@ linkedin_username: jesper84
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Jesper. I'm a passinate iOS Developer. I've been developing native iOS app since 2010. First on a hobby basis, and professionally since 2013. During my career which started in 2006, I've
+  Hi! My name is Jesper. I'm a passionate iOS Developer. I've been developing native iOS app since 2009. First on a hobby basis, and professionally since 2013. During my career which started in 2006, I've
   been around many technologies: JAVA enterprise, web development in many different aspects, backend programming in TypeScript and Go. As well as, of course, Objective-C and Swift.
 
   I am most skilled in: <mark>Native iOS development</mark> in <mark>Swift</mark> and <mark>Objective-C</mark>
