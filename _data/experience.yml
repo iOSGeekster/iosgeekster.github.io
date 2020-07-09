@@ -3,9 +3,18 @@
   job_title: Senior iOS Developer
   dates: May 2020 - Present
   qoute: >
-    Developer on intuitive Taxi booking app
+   Developer on intuitive Taxi booking app.
   description: |
-   Senior iOS Developer on a small team, developing a Taxi app for the Scandinavian markets
+   Senior iOS Developer on a small team, developing a Taxi app for the Scandinavian markets.
+   <mark>Responsibilities:</mark>
+   - All aspects of developing and maintaining the app.
+   - Close collaboration with backend developers
+   - Using Bitrise and Gitlab to setup agile development flow
+
+   <mark>Techonologies used:</mark>
+   - Swift
+   - Firebase
+   - Java backend
 
 - layout: left
   company: Lunar
