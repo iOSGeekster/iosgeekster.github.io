@@ -1,8 +1,17 @@
 - layout: left
+  company: BNR A/S
+  job_title: Senior iOS Developer
+  dates: May 2020 - Present
+  qoute: >
+    Developer on intuitive Taxi booking app
+  description: |
+   Senior iOS Developer on a small team, developing a Taxi app for the Scandinavian markets
+
+- layout: left
   company: Lunar
   link: lunar.app
   job_title: iOS Engineer
-  dates: January 2017 - Present
+  dates: January 2017 - May 2020
   quote: >
    Disrupting banking as we know it.
   description: | # this will include new lines to allow paragraphs
