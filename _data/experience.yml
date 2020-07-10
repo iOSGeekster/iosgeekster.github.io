@@ -2,7 +2,7 @@
   company: BNR A/S
   job_title: Senior iOS Developer
   dates: May 2020 - Present
-  qoute: >
+  quote: >
    Developer on intuitive Taxi booking app.
   description: |
    Senior iOS Developer on a small team, developing a Taxi app for the Scandinavian markets.
@@ -14,6 +14,8 @@
 
    <mark>Techonologies used:</mark>
    - Swift
+   - Git
+   - Fastlane
    - Firebase
    - Java backend
 
@@ -21,7 +23,7 @@
   company: Lunar
   link: lunar.app
   job_title: iOS Engineer
-  dates: January 2017 - May 2020
+  dates: January 2017 - April 2020
   quote: >
    Disrupting banking as we know it.
   description: | # this will include new lines to allow paragraphs
