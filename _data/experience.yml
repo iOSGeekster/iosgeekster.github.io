@@ -1,7 +1,16 @@
 - layout: left
+  company: LEGO Education
+  job_title: Senior Software Engineer
+  dates: October 2020 - Present
+  quote: >
+   Building the future of playful learning.
+  description: |
+    Senior Software Engineer on the LEGO Education team, developing the LEGO Education SPIKE Prime app.
+
+- layout: left
   company: BNR A/S
   job_title: Senior iOS Developer
-  dates: May 2020 - Present
+  dates: May 2020 - September 2020
   quote: >
    Developer on intuitive Taxi booking app.
   description: |
